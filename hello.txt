@@ -9,3 +9,5 @@ hello git  hot-fix--------------
 hello git 
 hello git   merge test master
 hello git   hot-fix two change 
+hello git   my thread change 
+hello git   ------------
